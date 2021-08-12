@@ -1,0 +1,10 @@
+@mixin flexContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@mixin  backgroundImg {
+  background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+}
